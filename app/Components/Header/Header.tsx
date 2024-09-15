@@ -13,10 +13,10 @@ const Header = () => (
                     <Link href="/">Home</Link>
                 </li>
                 <li>
-                    <Link href="/menu">NBA</Link>
+                    <Link href="/player">Player</Link>
                 </li>
                 <li>
-                    <Link href="/contact">MLB</Link>
+                    <Link href="/contact">Team</Link>
                 </li>
                 <li>
                     <Link href="/contact">Stat</Link>
